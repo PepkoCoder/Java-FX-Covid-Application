@@ -1,0 +1,15 @@
+1
+Glavobolja
+RIJETKO
+2
+Kašalj
+ČESTO
+3
+Visoka Temperatura
+SREDNJE
+4
+Grlobolja
+SREDNJE
+5
+Povraćanje
+ČESTO

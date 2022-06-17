@@ -1,0 +1,24 @@
+1
+Varaždinska
+10000
+40000
+2
+Zargrebačka
+14000
+50
+3
+Grad Zagreb
+50000
+3400
+4
+Istarska
+40000
+400
+5
+Nova
+3400
+30
+6
+Međimurska
+14000
+102

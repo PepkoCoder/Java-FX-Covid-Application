@@ -1,0 +1,9 @@
+21
+GRIPA
+2,3
+22
+COVID
+1,2,3
+23
+Bronhitis
+2,3,5
